@@ -2,6 +2,11 @@
 
 Informatie inzetten op nieuwe manieren om nieuwe inzichten, waardevollen goederen en diensten te krijgen.
 
+Wat kun je op grote schaal doen dat je niet op kleine schaal kunt doen?
+
+Mensen denken in termen van causaliteit; dat wordt denken in termen van correlaties (waarschijnlijkheden)
+ 
+
 ###Google###
 
 Leren: 450 miljoen wiskundige modellen -->	
@@ -10,8 +15,10 @@ Leren: 450 miljoen wiskundige modellen -->
 ###Farecast###
 
 40 dagen prijsobservaties vliegtickets -->
-Wat is het ideale koopmoment?
-(Waarom is irrelevant)
+
+Welke factoren bepalen ideale koopmoment
+
+Wat is het het ideale koopmoment?
 
 
 
@@ -27,7 +34,7 @@ En een sub sub hoofdstuk.
 
 Nieuwe pagina?
 
-[dit is een link](http://wwww.nu.nl)
+[dit is een link](http://www.nu.nl)
 
 >met dank aan justus
 >>en remarkable language
