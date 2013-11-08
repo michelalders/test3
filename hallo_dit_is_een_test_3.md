@@ -1,4 +1,8 @@
+!
+
 #De Big data revolutie#
+
+!
 
 Informatie inzetten op nieuwe manieren om nieuwe inzichten, waardevollen goederen en diensten te krijgen.
 
