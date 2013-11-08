@@ -8,11 +8,14 @@ Wat kun je op grote schaal doen dat je niet op kleine schaal kunt doen?
 
 Mensen denken in termen van causaliteit; dat wordt denken in termen van correlaties (waarschijnlijkheden)
  
+!
 
 ###Google###
 
 Leren: 450 miljoen wiskundige modellen -->	
 45 zoektermen --> waar is griep? Realtime 
+
+!
 
 ###Farecast###
 
@@ -21,6 +24,8 @@ Leren: 450 miljoen wiskundige modellen -->
 Welke factoren bepalen ideale koopmoment
 
 Wat is het het ideale koopmoment?
+
+!
 
 
 
