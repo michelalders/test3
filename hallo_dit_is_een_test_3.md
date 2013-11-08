@@ -1,6 +1,15 @@
-#Hallo dit is een test#	
+#De Big data revolutie#
 
-deze test gaan we publiceren. Wat nu volgt is wat voorbeeld hoofdstukjes.
+Informatie inzetten op nieuwe manieren om nieuwe inzichten, waardevollen goederen en diensten te krijgen.
+
+
+Leren: 450 miljoen wiskundige modellen -->	
+45 zoektermen --> waar is griep? Realtime 
+
+
+
+
+
 
 ##zwei heck ##
 Ja een sub		
