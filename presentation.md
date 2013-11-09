@@ -4,7 +4,11 @@
 
 Informatie inzetten op nieuwe manieren om nieuwe inzichten, waardevollen goederen en diensten te krijgen.
 
+!
+
 Wat kun je op grote schaal doen dat je niet op kleine schaal kunt doen?
+
+!
 
 Mensen denken in termen van causaliteit; dat wordt denken in termen van correlaties (waarschijnlijkheden)
  
@@ -12,28 +16,29 @@ Mensen denken in termen van causaliteit; dat wordt denken in termen van correlat
 
 ###Google - waar heerst griep?###
 
-Leren: 450 miljoen wiskundige modellen -->	
-45 zoektermen --> real time inzicht
+Leren: 450 miljoen wiskundige modellen;
+	
+Met 45 zoektermen real time inzicht
 
 !
 
 ###Farecast - not last minute ticket###
 
-40 dagen prijsobservaties vliegtickets -->
+40 dagen prijsobservaties vliegtickets
 
 Welke factoren bepalen ideale koopmoment
 
 Last minute is niet het goedkoopste moment
 
 
-
 !
 
 
-![Data zijn de olie van de toekomst](NRC_20131024_data olie vd toekomst.pdf)
+[Data zijn de olie van de toekomst](NRC_20131024_data olie vd toekomst.pdf)
 
 
 !
+
 
 Hoogleraar Richard J. Aldrich (NRC Handelsblad 8 november 2013):	
 
@@ -43,7 +48,10 @@ Hoogleraar Richard J. Aldrich (NRC Handelsblad 8 november 2013):
 
 [Data Journalism - The Guardian](http://www.theguardian.com/news/datablog/2012/may/24/data-journalism-punk#_)
 
+
+
 [Fusiontables Google](https://support.google.com/fusiontables/answer/2571232?hl=en)
+
 
 !
 
@@ -64,9 +72,12 @@ Het gaat om voorspellingen, om de kans dat
 De aselecte steekproef; voorspellen behapbaar maken.
 De wereld meten zonder over de middelen te beschikken om te analyseren wat je aan data verzamelt.
 
+!
 
 Systematische vertekening; evalueren voorspellingen
 [Nate Silver](http://www.nytimes.com/2012/11/04/books/review/the-signal-and-the-noise-by-nate-silver.html?_r=0)
+
+!
 
 
 DNA analyse 
@@ -78,4 +89,7 @@ Maar... als er nieuwe markers ontdekt worden...
 !
 
 
+De wereld meten zonder over de **middelen** te beschikken om te analyseren (meten) wat je aan data verzamelt (tellen).
+
+Deze middelen hebben we ondertussen wel (computers)
  
