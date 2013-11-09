@@ -100,6 +100,7 @@ Nicholos Carr (NRC Handelsblad 8 november 2013):
 
 !
 
+
 Efficiencyslag door *digitalisering*: analoge informatie leesbaar maken.
 Opslag en verwerking gaat veel efficienter
 
