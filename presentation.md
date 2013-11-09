@@ -10,36 +10,27 @@ Mensen denken in termen van causaliteit; dat wordt denken in termen van correlat
  
 !
 
-###Google###
+###Google - waar heerst griep?###
 
 Leren: 450 miljoen wiskundige modellen -->	
-45 zoektermen --> waar is griep? Realtime 
+45 zoektermen --> real time inzicht
 
 !
 
-###Farecast###
+###Farecast - not last minute ticket###
 
 40 dagen prijsobservaties vliegtickets -->
 
 Welke factoren bepalen ideale koopmoment
 
-Wat is het het ideale koopmoment?
+Last minute is niet het goedkoopste moment?
+
 
 !
 
 
+### ###
 
-
-
-
-
-##zwei heck ##
-Ja een sub		
-###dreiheck trick###
-En een sub sub hoofdstuk.
-
-
-Nieuwe pagina?
 
 [dit is een link](http://www.nu.nl)
 
@@ -47,7 +38,12 @@ Nieuwe pagina?
 >>en remarkable language
 
 
-![Dit is een afbeelding](IMG_0827.jpg)
+![Dit is een afbeelding](NRC_20131024_data olie vd toekomst.pdf)
+
+
+
+
+
 
 
 
