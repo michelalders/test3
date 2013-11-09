@@ -40,9 +40,10 @@ Last minute is niet het goedkoopste moment
 !
 
 
-Hoogleraar Richard J. Aldrich (NRC Handelsblad 8 november 2013):	
+Richard J. Aldrich (NRC Handelsblad 8 november 2013):	
 
->"De drijvende kracht achter het vergaren van informatie zijn niet, wat veel mensen denken, de inlichtingendiensten. Het zijn de winkels, sociale media. De belangrijkste informatie die wordt verzameld is niet de inhoud van je emails. Ik denk dat [supermarkt] Tesco het meeste over mij weet door mijn bonuskaart. Als je daar algoritmen op loslaat, weet je wat ik stem."
+>De drijvende kracht achter het vergaren van informatie zijn niet, wat veel mensen denken, de inlichtingendiensten. Het zijn de winkels, sociale media. De belangrijkste informatie die wordt verzameld is niet de inhoud van je emails. Ik denk dat [supermarkt] Tesco het meeste over mij weet door mijn bonuskaart. Als je daar algoritmen op loslaat, weet je wat ik stem.
+
 
 !
 
@@ -89,7 +90,20 @@ Maar... als er nieuwe markers ontdekt worden...
 !
 
 
-De wereld meten zonder over de **middelen** te beschikken om te analyseren (meten) wat je aan data verzamelt (tellen).
+De wereld meten zonder over de **middelen** te beschikken om te analyseren wat je aan data verzamelt.
 
 Deze middelen hebben we ondertussen wel (computers)
- 
+
+Computers nemen overigens steeds meer taken van ons over.
+
+Maar... *weten vereist doen*.
+
+Nicholos Carr (NRC Handelsblad 8 november 2013):
+
+>Terwijl we ons tot schermwezens omvormen, staan we voor een existentiele vraag: ligt ons wezen nog altijd in wat we weten, of vinden we het wel goed dat we inmiddels worden bepaald door wat we willen?
+
+
+![We gaan teveel op de automatische piloot en niet alleen in het vliegtuig](NRC_20131109_automatische piloot.pdf)
+
+!
+
