@@ -34,40 +34,15 @@ Last minute is niet het goedkoopste moment?
 
 [dit is een link](http://www.nu.nl)
 
->met dank aan justus
->>en remarkable language
+
+!
 
 
 ![Dit is een afbeelding](NRC_20131024_data olie vd toekomst.pdf)
 
+!
 
+Hoogleraar Richard J. Aldrich:	
 
-
-
-
-
-
-Wat is gelukt?
-
-- een citaat
-- een lijst
-- een sub in de lijst
-
-
-
-
-
-
-en dan nu weer verder met gewone tekst
-
-
-En dan nu een nummering
-
-1. dit is 1
-2. en dat is 2
-3. en dat is 3
-
-
-
-
+>De drijvende kracht achter het vergaren van informatie zijn niet, wat veel mensen denken, de inlichtingendiensten. Het zijn de winkels, sociale media. De belangrijkste informatie die wordt verzameld is niet de inhoud van je emails. Ik denk dat [supermarkt] Tesco het meeste over mij weet door mijn bonuskaart. Als je daar aloritmen op loslaat, weet je wat ik stem.
 
