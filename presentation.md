@@ -37,10 +37,45 @@ Last minute is niet het goedkoopste moment
 
 Hoogleraar Richard J. Aldrich (NRC Handelsblad 8 november 2013):	
 
->De drijvende kracht achter het vergaren van informatie zijn niet, wat veel mensen denken, de inlichtingendiensten. Het zijn de winkels, sociale media. De belangrijkste informatie die wordt verzameld is niet de inhoud van je emails. Ik denk dat [supermarkt] Tesco het meeste over mij weet door mijn bonuskaart. Als je daar algoritmen op loslaat, weet je wat ik stem.
+>"De drijvende kracht achter het vergaren van informatie zijn niet, wat veel mensen denken, de inlichtingendiensten. Het zijn de winkels, sociale media. De belangrijkste informatie die wordt verzameld is niet de inhoud van je emails. Ik denk dat [supermarkt] Tesco het meeste over mij weet door mijn bonuskaart. Als je daar algoritmen op loslaat, weet je wat ik stem."
 
 !
 
+[Data Journalism - The Guardian](http://www.theguardian.com/news/datablog/2012/may/24/data-journalism-punk#_)
+
 [Fusiontables Google](https://support.google.com/fusiontables/answer/2571232?hl=en)
 
+!
 
+Voorbeeldjes van Big data
+
+- Spamfilters; passen zich automatisch aan
+- Datingsites; welke profielen zater achter welke succesvolle matches
+- Autocorrectiefunctie in smartphones voegt nieuwe woorden toe
+
+Het gaat om voorspellingen, om de kans dat
+
+- een mailtje spam is
+- profielen op elkaar lijken
+- niet 'dzez' bedoeld wordt maar 'deze'
+
+!
+
+De aselecte steekproef; voorspellen behapbaar maken.
+De wereld meten zonder over de middelen te beschikken om te analyseren wat je aan data verzamelt.
+
+
+Systematische vertekening; evalueren voorspellingen
+[Nate Silver](http://www.nytimes.com/2012/11/04/books/review/the-signal-and-the-noise-by-nate-silver.html?_r=0)
+
+
+DNA analyse 
+Sequences genoom kost ± $1000
+Een deel sequences is veel goedkoper en richt zich op bepaalde markers waarvan bekend is dat ze bepaalde genetische fouten kunnen aanwijzen.
+
+Maar... als er nieuwe markers ontdekt worden... 
+
+!
+
+
+ 
