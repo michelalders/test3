@@ -30,13 +30,6 @@ Welke factoren bepalen ideale koopmoment
 
 Last minute is niet het goedkoopste moment
 
-
-!
-
-
-[Data zijn de olie van de toekomst](NRC_20131024_data olie vd toekomst.pdf)
-
-
 !
 
 
@@ -107,4 +100,79 @@ Nicholos Carr (NRC Handelsblad 8 november 2013):
 
 !
 
-Efficiencyslag
+Efficiencyslag door *digitalisering*: analoge informatie leesbaar maken.
+Opslag en verwerking gaat veel efficienter
+
+
+Digitalisering is noodzakelijke voorwaarden, maar het was niet voldoende voor de verschuiving richting big data.
+
+Computers leiden niet perse tot het ontstaan van big data.
+
+!
+
+Dataficiatie; het verzamelen van *informatie* over zo ongeveer van alles ter wereld.
+
+Ook zaken die we niet als informatie beschouwde
+
+- iemands locatie
+- trillingen van een motor
+- spanningen waaraan een brug blootstaat
+
+!
+
+We kunnen informatie op een nieuwe manier gebruiken: voorspellende analyse.
+
+De motor loopt de kans defect te raken op grond van de trillingen of warmte.
+
+!
+
+Verschuiving van causaliteit naar correlatie.
+
+Jacht op schatten aan informatie.
+
+Alle gegevensverzamelingen hebben intrinsieke, verborgen, nog niet ontgonnen waarde. 
+
+
+
+![Data zijn de olie van de toekomst](NRC_20131024_data olie vd toekomst.pdf)
+
+!
+
+Dit heeft grote gevolgen voor individuen.
+
+Specifieke expertise doet minder ter zake omdat het om waarschijnlijkheden gaat.
+
+Moneyball: honkbalscouts worden overtroefd door statistici.
+Expertise 
+
+!
+
+Traditioneel worden beslissingen genomen door mensen op basis van beperkte informatie die exact is en causaal van aard.
+
+Maar als de hoeveelheden gegevens toeneemt, zullen beslissingen niet door mensen, maar door machines gemaakt worden.
+
+!
+
+Privacy ligt open en bloot
+
+- Vrijwillig delen op social media
+- altijd online
+- accepteer cookies
+
+!
+
+En... big data gaat over de kans ... de kans
+- op een hartaanval (verzekeringspremie)
+- op een misdrijf (preventief arresteren)
+
+!
+
+Drukpers: vrijheid van meningsuiting regelen
+Big data: onschendbaarheid van personen regelen.
+
+!
+
+We kunnen profiteren van de big data revolutie.
+
+De wereld doorgronden door deze te kwantificeren = *dataficeren*
+ 
