@@ -1,5 +1,8 @@
 #De Big data revolutie#
 
+testje
+
+
 !
 
 Informatie inzetten op nieuwe manieren om nieuwe inzichten, waardevollen goederen en diensten te krijgen.
@@ -35,6 +38,9 @@ En een sub sub hoofdstuk.
 
 
 Nieuwe pagina?
+
+een wat?
+
 
 [dit is een link](http://www.nu.nl)
 
