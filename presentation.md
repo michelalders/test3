@@ -17,6 +17,7 @@ Mensen denken in termen van causaliteit; dat wordt denken in termen van correlat
 ###Google - waar heerst griep?###
 
 Leren: 450 miljoen wiskundige modellen;
+
 	
 Met 45 zoektermen real time inzicht
 
@@ -26,9 +27,12 @@ Met 45 zoektermen real time inzicht
 
 40 dagen prijsobservaties vliegtickets
 
+
 Welke factoren bepalen ideale koopmoment
 
+
 Last minute is niet het goedkoopste moment
+
 
 !
 
@@ -51,11 +55,15 @@ Richard J. Aldrich (NRC Handelsblad 8 november 2013):
 
 Voorbeeldjes van Big data
 
+
 - Spamfilters; passen zich automatisch aan
 - Datingsites; welke profielen zater achter welke succesvolle matches
 - Autocorrectiefunctie in smartphones voegt nieuwe woorden toe
 
+
+
 Het gaat om voorspellingen, om de kans dat
+
 
 - een mailtje spam is
 - profielen op elkaar lijken
@@ -64,6 +72,7 @@ Het gaat om voorspellingen, om de kans dat
 !
 
 De aselecte steekproef; voorspellen behapbaar maken.
+
 De wereld meten zonder over de middelen te beschikken om te analyseren wat je aan data verzamelt.
 
 !
@@ -76,9 +85,12 @@ Systematische vertekening; evalueren voorspellingen
 
 DNA analyse 
 Sequences genoom kost ± $1000
+
 Een deel sequences is veel goedkoper en richt zich op bepaalde markers waarvan bekend is dat ze bepaalde genetische fouten kunnen aanwijzen.
 
+
 Maar... als er nieuwe markers ontdekt worden... 
+
 
 !
 
