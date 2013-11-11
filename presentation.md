@@ -60,6 +60,7 @@ Voorbeeldjes van Big data
 - Datingsites; welke profielen zater achter welke succesvolle matches
 - Autocorrectiefunctie in smartphones voegt nieuwe woorden toe
 
+!
 
 
 Het gaat om voorspellingen, om de kans dat
@@ -72,6 +73,7 @@ Het gaat om voorspellingen, om de kans dat
 !
 
 De aselecte steekproef; voorspellen behapbaar maken.
+
 
 De wereld meten zonder over de middelen te beschikken om te analyseren wat je aan data verzamelt.
 
@@ -103,7 +105,11 @@ Computers nemen overigens steeds meer taken van ons over.
 
 Maar... *weten vereist doen*.
 
+!
+
+
 Nicholos Carr (NRC Handelsblad 8 november 2013):
+
 
 >Terwijl we ons tot schermwezens omvormen, staan we voor een existentiele vraag: ligt ons wezen nog altijd in wat we weten, of vinden we het wel goed dat we inmiddels worden bepaald door wat we willen?
 
@@ -112,11 +118,13 @@ Nicholos Carr (NRC Handelsblad 8 november 2013):
 
 !
 
+
 Efficiencyslag door *digitalisering*: analoge informatie leesbaar maken.
 Opslag en verwerking gaat veel efficienter
 
 
 Digitalisering is noodzakelijke voorwaarden, maar het was niet voldoende voor de verschuiving richting big data.
+
 
 Computers leiden niet perse tot het ontstaan van big data.
 
@@ -148,11 +156,15 @@ Alle gegevensverzamelingen hebben intrinsieke, verborgen, nog niet ontgonnen waa
 
 ![Data zijn de olie van de toekomst](NRC_20131024_data olie vd toekomst.pdf)
 
+
 !
+
 
 Dit heeft grote gevolgen voor individuen.
 
+
 Specifieke expertise doet minder ter zake omdat het om waarschijnlijkheden gaat.
+
 
 Moneyball: honkbalscouts worden overtroefd door statistici.
 Expertise 
@@ -160,6 +172,7 @@ Expertise
 !
 
 Traditioneel worden beslissingen genomen door mensen op basis van beperkte informatie die exact is en causaal van aard.
+
 
 Maar als de hoeveelheden gegevens toeneemt, zullen beslissingen niet door mensen, maar door machines gemaakt worden.
 
@@ -174,15 +187,20 @@ Privacy ligt open en bloot
 !
 
 En... big data gaat over de kans ... de kans
+
 - op een hartaanval (verzekeringspremie)
 - op een misdrijf (preventief arresteren)
 
 !
 
 Drukpers: vrijheid van meningsuiting regelen
+
+
 Big data: onschendbaarheid van personen regelen.
 
+
 !
+
 
 We kunnen profiteren van de big data revolutie.
 
